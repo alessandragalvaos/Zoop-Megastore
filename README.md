@@ -101,8 +101,11 @@ Uma análise comparativa do faturamento entre assinantes Prime e não assinantes
 Adicione uma caixa de texto no dashboard com o título "Recomendações Estratégicas". Nela, escreva um parágrafo curto respondendo à pergunta-chave. Por exemplo: "Recomendamos focar a campanha de marketing nos estados de SP e RJ para a categoria de Eletrônicos, além de criar uma iniciativa para converter clientes regulares em assinantes Prime, dado que eles gastam, em média, X% a mais."
 <img width="1456" height="897" alt="image" src="https://github.com/user-attachments/assets/8051ffc6-9779-4dad-b044-faf6639f9343" />
 
-Ferramentas e Tecnologias
-Power BI
-Dados: arquivos CSV
+## Ferramentas e Tecnologias
+Arquivos CSV
 Pandas
+MySQL
+Power BI
+
+Projeto de estudo orindo da plataforma da Alura
 
